@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+// HEAD
 // added a new feature --button
-=======
-// added a new feature --form
->>>>>>> feature
 
+// added a new feature --form
+// feature
 
 //practice 2
